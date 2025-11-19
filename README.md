@@ -4,7 +4,7 @@ A complete mobile and backend solution for smart parking management with QR code
 
 ## Project Structure
 
-\`\`\`
+```
 ├── backend/              # Node.js/Express API
 │   ├── models/          # MongoDB schemas
 │   ├── routes/          # API endpoints
@@ -16,7 +16,7 @@ A complete mobile and backend solution for smart parking management with QR code
     ├── context/         # State management (Auth)
     ├── services/        # API client
     └── App.jsx          # Root component
-\`\`\`
+```
 
 ## Features
 
